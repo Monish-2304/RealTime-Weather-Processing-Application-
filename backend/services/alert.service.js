@@ -1,7 +1,7 @@
 const User = require("../models/user.model");
 const { getWeatherForCity } = require("./weather.service");
 
-const alertCheckInterval = 1 * 60 * 1000;
+const alertCheckInterval = 5 * 60 * 1000;
 const alertLimit = 3;
 const alertTimeframe = 6 * 60 * 60 * 1000;
 
