@@ -81,7 +81,7 @@ max temperature and minimum temperature.
 Login/Sign Up for authentication along with JWT token for enhanced security
 Only people who have logged in can set and receive alerts
 
-13.Performance features implemented:
+13. Performance features implemented:
 Used Redis for caching and faster retrieval of data
 Web sockets is utilized for live data display 
 Zustand is used for state management in frontend
